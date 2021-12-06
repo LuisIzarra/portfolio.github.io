@@ -31,7 +31,7 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Switch>
-          <Route path="/" exact component={Home} />
+          <Route path="/portfolio.github.io" exact component={Home} />
           <Route path="/portfolio.github.io" component={Home} />
           <Route path="/project" component={Projects} />
           <Route path="/about" component={About} />
