@@ -33,8 +33,8 @@ function App() {
         <Switch>
           <Route path="/portfolio.github.io" exact component={Home} />
           <Route path="/portfolio.github.io" component={Home} />
-          <Route path="/project" component={Projects} />
-          <Route path="/about" component={About} />
+          <Route path="/portfolio.github.io/project" component={Projects} />
+          <Route path="/portfolio.github.io/about" component={About} />
           <Route path="/resume" component={Resume} />
           <Route path="*" component={Home} />
         </Switch>
