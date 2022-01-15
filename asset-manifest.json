@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://luisizarra.github.io/portfolio.github.io/static/css/main.7b62d87a.chunk.css",
-    "main.js": "https://luisizarra.github.io/portfolio.github.io/static/js/main.6c6b4eb1.chunk.js",
-    "main.js.map": "https://luisizarra.github.io/portfolio.github.io/static/js/main.6c6b4eb1.chunk.js.map",
+    "main.js": "https://luisizarra.github.io/portfolio.github.io/static/js/main.80ac6714.chunk.js",
+    "main.js.map": "https://luisizarra.github.io/portfolio.github.io/static/js/main.80ac6714.chunk.js.map",
     "runtime-main.js": "https://luisizarra.github.io/portfolio.github.io/static/js/runtime-main.350324a5.js",
     "runtime-main.js.map": "https://luisizarra.github.io/portfolio.github.io/static/js/runtime-main.350324a5.js.map",
     "static/css/2.d6008dad.chunk.css": "https://luisizarra.github.io/portfolio.github.io/static/css/2.d6008dad.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.d6008dad.chunk.css",
     "static/js/2.f5973e9b.chunk.js",
     "static/css/main.7b62d87a.chunk.css",
-    "static/js/main.6c6b4eb1.chunk.js"
+    "static/js/main.80ac6714.chunk.js"
   ]
 }
